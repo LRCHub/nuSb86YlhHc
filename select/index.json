@@ -1,0 +1,170 @@
+{
+  "version": 1,
+  "base_track": "PASSO BEM SOLTO (Slowed)",
+  "base_artist": "ATLXS",
+  "createdAt": "2026-03-18T09:44:53.527321Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "PASSO BEM SOLTO (SLOWED)",
+      "artist": "ATLXS",
+      "has_synced": true,
+      "path": "select/01_PASSO_BEM_SOLTO_(SLOWED)_ATLXS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ATLXS - PASSO BEM SOLTO (SLOWED)",
+      "artist": "phonk",
+      "has_synced": true,
+      "path": "select/02_ATLXS_-_PASSO_BEM_SOLTO_(SLOWED)_phonk.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "PASSO BEM SOLTO (Slowed)",
+      "artist": "ATLXS",
+      "has_synced": true,
+      "path": "select/03_PASSO_BEM_SOLTO_(Slowed)_ATLXS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "PASSO BEM SOLTO (SLOWED)",
+      "artist": "Video, ATLXS",
+      "has_synced": true,
+      "path": "select/04_PASSO_BEM_SOLTO_(SLOWED)_Video,_ATLXS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ATLXS - PASSO BEM SOLTO (Slowed)",
+      "artist": "Valence",
+      "has_synced": true,
+      "path": "select/05_ATLXS_-_PASSO_BEM_SOLTO_(Slowed)_Valence.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "PASSO BEM SOLTO (Slowed)",
+      "artist": "ATLXS",
+      "has_synced": true,
+      "path": "select/06_PASSO_BEM_SOLTO_(Slowed)_ATLXS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "PASSO BEM SOLTO - Slowed",
+      "artist": "ATLXS",
+      "has_synced": true,
+      "path": "select/07_PASSO_BEM_SOLTO_-_Slowed_ATLXS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ATLXS - PASSO BEM SOLTO (SLOWED)",
+      "artist": "Phonky Town",
+      "has_synced": true,
+      "path": "select/08_ATLXS_-_PASSO_BEM_SOLTO_(SLOWED)_Phonky_Town.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "PASSO BEM SOLTO (Slowed) (Muzem.net)",
+      "artist": "Atlxs",
+      "has_synced": true,
+      "path": "select/09_PASSO_BEM_SOLTO_(Slowed)_(Muzem.net)_Atlxs.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "PASSO BEM SOLTO - Super Slowed",
+      "artist": "ATLXS",
+      "has_synced": true,
+      "path": "select/10_PASSO_BEM_SOLTO_-_Super_Slowed_ATLXS.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ATLXS - PASSO BEM SOLTO",
+      "artist": "phonk",
+      "has_synced": true,
+      "path": "select/11_ATLXS_-_PASSO_BEM_SOLTO_phonk.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "PASSO BEM SOLTO",
+      "artist": "ATLXS",
+      "has_synced": true,
+      "path": "select/12_PASSO_BEM_SOLTO_ATLXS.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "PASSO BEM SOLTO (Ultra Slowed)",
+      "artist": "ATLXS",
+      "has_synced": true,
+      "path": "select/13_PASSO_BEM_SOLTO_(Ultra_Slowed)_ATLXS.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "PASSO BEM SOLTO - Extreme Slowed",
+      "artist": "ATLXS",
+      "has_synced": true,
+      "path": "select/14_PASSO_BEM_SOLTO_-_Extreme_Slowed_ATLXS.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "PASSO BEM SOLTO (Ultra Slowed)",
+      "artist": "ATLXS, 9.2M plays",
+      "has_synced": true,
+      "path": "select/15_PASSO_BEM_SOLTO_(Ultra_Slowed)_ATLXS,_9.2M_plays.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "PASSO BEM SOLTO (Super Slowed)",
+      "artist": "ATLXS",
+      "has_synced": true,
+      "path": "select/16_PASSO_BEM_SOLTO_(Super_Slowed)_ATLXS.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "PASSO BEM SOLTO (Extreme Slowed)",
+      "artist": "ATLXS",
+      "has_synced": true,
+      "path": "select/17_PASSO_BEM_SOLTO_(Extreme_Slowed)_ATLXS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PASSO BEM SOLTO",
+      "artist": "ATLXS",
+      "has_synced": false,
+      "path": "select/pl_01_PASSO_BEM_SOLTO_ATLXS.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "PASSO BEM SOLTO (Slowed)",
+      "artist": "ATLXS",
+      "has_synced": true,
+      "path": "select/localdb_01_PASSO_BEM_SOLTO_(Slowed)_ATLXS.lrc",
+      "repo_name": "KgayxOF4Y7E"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "PASSO BEM SOLTO (Slowed)",
+      "artist": "ATLXS",
+      "has_synced": true,
+      "path": "select/localdb_02_PASSO_BEM_SOLTO_(Slowed)_ATLXS.lrc",
+      "repo_name": "w2oF1132e88"
+    }
+  ]
+}
